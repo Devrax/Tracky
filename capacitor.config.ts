@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'tracker-app',
+  appId: 'com.tracky.io',
+  appName: 'Tracky',
   webDir: 'build',
   bundledWebRuntime: false
 };
